@@ -4,13 +4,13 @@ Repository of all the material and methods we used to provide an automated detec
 
 Before using, make sure the following libraries are installed:
 
--numpy
--pandas
--matplotlib
--scipy
--scikit-learn
--spacepy
--pyarrow
--lmfit
--tensorflow
--keras
+- numpy
+- pandas
+- matplotlib
+- scipy
+- scikit-learn
+- spacepy
+- pyarrow
+- lmfit
+- tensorflow
+- keras
