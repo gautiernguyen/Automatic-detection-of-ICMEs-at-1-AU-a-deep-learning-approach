@@ -14,3 +14,5 @@ Before using, make sure the following libraries are installed:
 - lmfit
 - tensorflow
 - keras
+
+The associated dataset can be found here: https://www.kaggle.com/gautiernguyen/wind-data
